@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">PO_Organizer_Wydatkow</string>
+    <string name="action_settings">Settings</string>
+    <string name="budżet_napis">Budżet!</string>
+    <string name="saldo_napis">Saldo:</string>
+    <string name="podbudzet_napis">Podbudżety</string>
+    <string name="title_activity_menu_prezenter">MenuPrezenter</string>
+    <string name="title_activity_usun_podbudzet_zatwierdzenie_prezenter">
+        UsunPodbudzetZatwierdzeniePrezenter
+    </string>
+    <string name="udun_napis">Usuń</string>
+    <string name="pytanie_usun_napis">Czy na pewno chcesz \nusunąć ten podbudżet?</string>
+    <string name="nie">Nie</string>
+    <string name="tak">Tak</string>
+    <string name="title_activity_usun_podbudzet_przenoszenie_prezenter">
+        UsunPodbudzetPrzenoszeniePrezenter
+    </string>
+    <string name="przenoszenie_pytanie_napis">Czy chcesz przenieść \ntransakcje do innego \npodbudżetu?</string>
+    <string name="title_activity_usun_podbudzet_wybor_prezenter">UsunPodbudzetWyborPrezenter
+    </string>
+    <string name="title_activity_usun_podbudzet_potwierdzenie_prezenter">
+        UsunPodbudzetPotwierdzeniePrezenter
+    </string>
+    <string name="dalej">dalej</string>
+    <string name="potwierdzenie_usuniecia_napis">Podbudżet został usunięty.</string>
+    <string name="title_activity_dodaj_podbudzet_dane_prezenter">DodajPodbudzetDanePrezenter
+    </string>
+    <string name="utworz_napis">Utwórz</string>
+    <string name="nazwa_napis">Nazwa: </string>
+    <string name="title_activity_dodaj_podbudzet_potwierdzenie_prezenter">
+        DodajPodbudzetPotwierdzeniePrezenter
+    </string>
+    <string name="dppp_napis">Podbudżet został dodany.</string>
+    <string name="title_activity_wspoldziel_podbudzet_zatwierdzenie_prezenter">
+        WspoldzielPodbudzetZatwierdzeniePrezenter
+    </string>
+    <string name="wspoldzielenie_napis">Współdzielenie</string>
+    <string name="wzpz_pytanie_napis">Czy chcesz współdzielić podbudżet?</string>
+    <string name="title_activity_wspoldziel_podbudzet_wybor_prezenter">
+        WspoldzielPodbudzetWyborPrezenter
+    </string>
+    <string name="title_activity_wspoldziel_podbudzet_blad_prezenter">
+        WspoldzielPodbudzetBladPrezenter
+    </string>
+    <string name="wpbp_napis">Nie znaleziono innych użytkowników.</string>
+    <string name="title_activity_wspoldziel_podbudzet_potwierdzenie_prezenter">
+        WspoldzielPodbudzetPotwierdzeniePrezenter
+    </string>
+    <string name="wppp_napis">Podbudżet udostępniono użytkownikowi:</string>
+    <string name="title_activity_podbudzet_prezenter">PodbudzetPrezenter</string>
+    <string name="pp_wspoldzielenie">Współdzielony z:</string>
+    <string name="pp_wydatki_napis">Zarządzaj wydatkami</string>
+    <string name="pp_inwestycje_napis">Zarządzaj inwestycajmi</string>
+    <string name="pp_przychody_o_napis">Zarządzaj przychodzami osiągniętymi</string>
+    <string name="pp_przychody_p_napis">Zarządzaj przychodami prognozowanymi</string>
+    <string name="pp_wspoldzielenie_napis">Zarządzaj współdzieleniem</string>
+    <string name="title_activity_zarzadzaj_wydatkami_prezenter">ZarzadzajWydatkamiPrezenter</string>
+    <string name="zwp_napis">Lista wydatków</string>
+    <string name="title_activity_dodaj_wydatek_dane_prezenter">DodajWydatekDanePrezenter</string>
+    <string name="dwdp_napis">Dodaj</string>
+    <string name="title_activity_dodaj_wydatek_potwierdzenie_prezenter">
+        DodajWydatekPotwierdzeniePrezenter
+    </string>
+    <string name="dwpp_potwierdzenie_napis">Wydatek został dodany</string>
+    <string name="title_activity_edytuj_wydatek_dane_prezenter">EdytujWydatekDanePrezenter</string>
+    <string name="kategoria_napis">Kategoria:</string>
+    <string name="cena_napis">Cena:</string>
+    <string name="data_napis">Data:</string>
+    <string name="edytuj_napis">Edytuj</string>
+    <string name="zakoncz_edycje_napis">Zakończ edycję</string>
+    <string name="title_activity_edytuj_wydatek_potwierdzenie_prezenter">
+        EdytujWydatekPotwierdzeniePrezenter
+    </string>
+    <string name="ewpp_potwierdzenie_napis">Edycja zakończona pomyślnie</string>
+    <string name="title_activity_usun_wydatek_potwierdzenie_prezenter">
+        UsunWydatekPotwierdzeniePrezenter
+    </string>
+    <string name="uwpp_potwierdzenie_napis">Wydatek został usunięty.</string>
+    <string name="title_activity_usun_wydatek_zatwierdzenie_prezenter">
+        UsunWydatekZatwierdzeniePrezenter
+    </string>
+    <string name="uwzp_pytanie_napis">Czy na pewno chcesz usunąć ten wydatek?</string>
+    <string name="otworz">Otwórz</string>
+</resources>

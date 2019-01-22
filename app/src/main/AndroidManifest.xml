@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fabian.po_organizer_wydatkow">
+
+    <application
+        android:name="WarstwaDostepuDoDanych.UchwytBazy"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:label="Organizer budżetu"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="WarstwaPrezentacji.BudzetPrezenter"
+            android:label=""
+            android:parentActivityName="WarstwaPrezentacji.MenuPrezenter"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="WarstwaPrezentacji.MenuPrezenter"
+            android:label=""
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="WarstwaPrezentacji.PodbudzetPrezentery.UsunPodbudzetZatwierdzeniePrezenter"
+            android:label=""
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="WarstwaPrezentacji.PodbudzetPrezentery.UsunPodbudzetPrzenoszeniePrezenter"
+            android:label=""
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="WarstwaPrezentacji.PodbudzetPrezentery.UsunPodbudzetWyborPrezenter"
+            android:label=""
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="WarstwaPrezentacji.PodbudzetPrezentery.DodajPodbudzetPrezenter"
+            android:label=""
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="WarstwaPrezentacji.PodbudzetPrezentery.WspoldzielPodbudzetZatwierdzeniePrezenter"
+            android:label=""
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="WarstwaPrezentacji.PodbudzetPrezentery.WspoldzielPodbudzetWyborPrezenter"
+            android:label=""
+            android:theme="@style/AppTheme.NoActionBar">
+    </activity>
+        <activity
+            android:name="WarstwaPrezentacji.PodbudzetPrezentery.PodbudzetPrezenter"
+            android:label=""
+            android:parentActivityName="WarstwaPrezentacji.MenuPrezenter"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="WarstwaPrezentacji.WydatkiPrezentery.ZarzadzajWydatkamiPrezenter"
+            android:label=""
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="WarstwaPrezentacji.WydatkiPrezentery.DodajWydatekDanePrezenter"
+            android:label=""
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="WarstwaPrezentacji.WydatkiPrezentery.EdytujWydatekDanePrezenter"
+            android:label=""
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="WarstwaPrezentacji.WydatkiPrezentery.UsunWydatekZatwierdzeniePrezenter"
+            android:label=""
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+    </application>
+
+</manifest>
